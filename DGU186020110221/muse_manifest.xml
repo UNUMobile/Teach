@@ -1,0 +1,219 @@
+<manifest alg="2" build="232" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="417434784"/>
+    <file name="master_a-__.css" crc="6330838" ref="課程資源:index:w03-聲音的世界:w11-影像配樂:w12-midi:w05-音訊錄音:w09-視訊處理:w04-數位音樂及錄音:認證考試:w06-音訊編輯:講義:w07-音頻處理:w08-堆積木創作法:w10-配樂的情緒:w13-音源及和弦創件"/>
+    <file name="____1.css" crc="193628534" ref="課程資源"/>
+    <file name="index.css" crc="4253560685" ref="index"/>
+    <file name="w03-_____.css" crc="4164039358" ref="w03-聲音的世界"/>
+    <file name="w11-____.css" crc="303934086" ref="w11-影像配樂"/>
+    <file name="w12-midi.css" crc="486929850" ref="w12-midi"/>
+    <file name="w05-____.css" crc="250041655" ref="w05-音訊錄音"/>
+    <file name="w09-____.css" crc="3767880966" ref="w09-視訊處理"/>
+    <file name="w04-_______.css" crc="3825709043" ref="w04-數位音樂及錄音"/>
+    <file name="____.css" crc="4273026316" ref="認證考試"/>
+    <file name="w06-____.css" crc="3802276049" ref="w06-音訊編輯"/>
+    <file name="__.css" crc="417432779" ref="講義"/>
+    <file name="w07-____.css" crc="4185043377" ref="w07-音頻處理"/>
+    <file name="w08-______.css" crc="492874610" ref="w08-堆積木創作法"/>
+    <file name="w10-_____.css" crc="3851618871" ref="w10-配樂的情緒"/>
+    <file name="w13-_______.css" crc="3805653067" ref="w13-音源及和弦創件"/>
+  </folder>
+  <folder name="assets">
+    <file name="musicmaker-2014-04-17.zip" crc="4169243860" mt="1401452293000"/>
+    <file name="w10-popc.ove" crc="318606101" mt="1352865240000"/>
+    <file name="w11-fill-template.ove" crc="17616620" mt="1353476230000"/>
+    <file name="w11-fill.ove" crc="3994080883" mt="1353480234000"/>
+    <file name="configvst.pdf" crc="392230834" mt="1348619300000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:課程資源:講義:w03-聲音的世界:w04-數位音樂及錄音:w05-音訊錄音:認證考試:w06-音訊編輯:w07-音頻處理:w08-堆積木創作法:w09-視訊處理:w10-配樂的情緒:w11-影像配樂:w12-midi:w13-音源及和弦創件"/>
+    <file name="museutils.js" crc="3865766194" ref="index:課程資源:講義:w03-聲音的世界:w04-數位音樂及錄音:w05-音訊錄音:認證考試:w06-音訊編輯:w07-音頻處理:w08-堆積木創作法:w09-視訊處理:w10-配樂的情緒:w11-影像配樂:w12-midi:w13-音源及和弦創件"/>
+    <file name="pie.js" crc="3827607177" ref="index:講義:w03-聲音的世界:w04-數位音樂及錄音:w05-音訊錄音:w06-音訊編輯:w08-堆積木創作法:w09-視訊處理:w10-配樂的情緒:w12-midi:認證考試:課程資源"/>
+    <file name="jquery.musemenu.js" crc="3788803530" ref="index:課程資源:講義:w03-聲音的世界:w04-數位音樂及錄音:w05-音訊錄音:認證考試:w06-音訊編輯:w07-音頻處理:w08-堆積木創作法:w09-視訊處理:w10-配樂的情緒:w11-影像配樂:w12-midi:w13-音源及和弦創件"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index:課程資源:講義:w03-聲音的世界:w04-數位音樂及錄音:w05-音訊錄音:認證考試:w06-音訊編輯:w07-音頻處理:w08-堆積木創作法:w09-視訊處理:w10-配樂的情緒:w11-影像配樂:w12-midi:w13-音源及和弦創件"/>
+    <file name="webpro.js" crc="3903299128" ref="w03-聲音的世界:w04-數位音樂及錄音:w05-音訊錄音:w06-音訊編輯:w07-音頻處理:w08-堆積木創作法:w09-視訊處理:w10-配樂的情緒:w11-影像配樂:w12-midi:w13-音源及和弦創件"/>
+    <file name="musewpslideshow.js" crc="138381373" ref="w03-聲音的世界:w04-數位音樂及錄音:w05-音訊錄音:w06-音訊編輯:w07-音頻處理:w08-堆積木創作法:w09-視訊處理:w10-配樂的情緒:w11-影像配樂:w12-midi:w13-音源及和弦創件"/>
+    <file name="jquery.museoverlay.js" crc="4250894771" ref="w03-聲音的世界:w04-數位音樂及錄音:w05-音訊錄音:w06-音訊編輯:w07-音頻處理:w08-堆積木創作法:w09-視訊處理:w10-配樂的情緒:w11-影像配樂:w12-midi:w13-音源及和弦創件"/>
+    <file name="touchswipe.js" crc="4156838003" ref="w03-聲音的世界:w04-數位音樂及錄音:w05-音訊錄音:w06-音訊編輯:w07-音頻處理:w08-堆積木創作法:w09-視訊處理:w10-配樂的情緒:w11-影像配樂:w12-midi:w13-音源及和弦創件"/>
+  </folder>
+  <folder name="images">
+    <file name="emergency.png" crc="377120852" ref="index:課程資源:講義:w03-聲音的世界:w04-數位音樂及錄音:w05-音訊錄音:認證考試:w06-音訊編輯:w07-音頻處理:w08-堆積木創作法:w09-視訊處理:w10-配樂的情緒:w11-影像配樂:w12-midi:w13-音源及和弦創件"/>
+    <file name="arrowmenudown.gif" crc="213132104" ref="index:認證考試:課程資源"/>
+    <file name="pasted image 1920x1200-u481.jpg" crc="4274475501" ref="index"/>
+    <file name="pasted image 512x512.png" crc="270918439" ref="index"/>
+    <file name="pasted image 300x300.png" crc="398827909" ref="index"/>
+    <file name="140213202256.jpg" crc="476192384" ref="index"/>
+    <file name="pasted image 253x100.jpg" crc="4081091826" ref="課程資源:w03-聲音的世界"/>
+    <file name="pasted image 128x128.jpg" crc="4088965312" ref="課程資源:w05-音訊錄音"/>
+    <file name="螢幕快照 2014-03-20 下午65853.jpg" crc="3806106682" ref="課程資源:w05-音訊錄音"/>
+    <file name="pasted image 1920x1080.jpg" crc="4005678741" ref="講義"/>
+    <file name="bigflower.jpg" crc="3893065589" ref="w03-聲音的世界"/>
+    <file name="pasted image 128x128.png" crc="4225945063" ref="w03-聲音的世界"/>
+    <file name="pasted image 640x298.jpg" crc="452285071" ref="w03-聲音的世界"/>
+    <file name="pasted image 329x217.png" crc="4121915482" ref="w03-聲音的世界"/>
+    <file name="pasted image 460x386.jpg" crc="398795660" ref="w03-聲音的世界"/>
+    <file name="pasted image 640x559.jpg" crc="179955004" ref="w03-聲音的世界"/>
+    <file name="pasted image 480x360.jpg" crc="4038044905" ref="w03-聲音的世界"/>
+    <file name="pasted image 639x480.jpg" crc="4141784217" ref="w03-聲音的世界"/>
+    <file name="answer.jpg" crc="118344185" ref="w03-聲音的世界"/>
+    <file name="pasted image 600x504.jpg" crc="222690402" ref="w04-數位音樂及錄音"/>
+    <file name="pasted image 953x455.jpg" crc="3795630907" ref="w04-數位音樂及錄音"/>
+    <file name="pasted image 358x351.jpg" crc="3947405087" ref="w04-數位音樂及錄音"/>
+    <file name="pasted image 347x450.jpg" crc="4154780264" ref="w04-數位音樂及錄音"/>
+    <file name="s__6168578.jpg" crc="4130196657" ref="w04-數位音樂及錄音"/>
+    <file name="pasted image 1000x600.jpg" crc="426637356" ref="w04-數位音樂及錄音"/>
+    <file name="pasted image 263x192.jpg" crc="3804765523" ref="w04-數位音樂及錄音"/>
+    <file name="pasted image 780x534.jpg" crc="405548332" ref="w04-數位音樂及錄音"/>
+    <file name="pasted image 225x225.jpg" crc="32419415" ref="w04-數位音樂及錄音"/>
+    <file name="螢幕快照 2014-03-14 上午91524.jpg" crc="3995888772" ref="w04-數位音樂及錄音"/>
+    <file name="pasted image 720x720.jpg" crc="98308529" ref="w04-數位音樂及錄音"/>
+    <file name="pasted image 777x498.jpg" crc="4200302605" ref="w04-數位音樂及錄音"/>
+    <file name="pasted image 620x269.jpg" crc="258291644" ref="w04-數位音樂及錄音"/>
+    <file name="pasted image 800x470.jpg" crc="4100082663" ref="w04-數位音樂及錄音"/>
+    <file name="pasted image 300x178.png" crc="4285583713" ref="w04-數位音樂及錄音"/>
+    <file name="pasted image 644x599.jpg" crc="140292038" ref="w04-數位音樂及錄音"/>
+    <file name="pasted image 800x540.png" crc="4065078438" ref="w04-數位音樂及錄音"/>
+    <file name="pasted image 800x520.jpg" crc="3955347484" ref="w04-數位音樂及錄音"/>
+    <file name="pasted image 400x400.jpg" crc="381461765" ref="w04-數位音樂及錄音"/>
+    <file name="pasted image 1024x1024-u982.jpg" crc="362096741" ref="w04-數位音樂及錄音"/>
+    <file name="pasted image 482x244-u994.jpg" crc="288301364" ref="w04-數位音樂及錄音"/>
+    <file name="pasted image 900x675.jpg" crc="438206242" ref="w04-數位音樂及錄音"/>
+    <file name="pasted image 415x257.jpg" crc="4126039232" ref="w04-數位音樂及錄音"/>
+    <file name="pasted image 1600x1200-u1114.jpg" crc="19313756" ref="w05-音訊錄音"/>
+    <file name="pasted image 188x237.jpg" crc="507594727" ref="w05-音訊錄音"/>
+    <file name="pasted image 858x225.png" crc="4149975944" ref="w05-音訊錄音"/>
+    <file name="pasted image 329x370.jpg" crc="3919826868" ref="w05-音訊錄音"/>
+    <file name="pasted image 600x117.jpg" crc="3965699882" ref="w05-音訊錄音"/>
+    <file name="pasted image 611x341.jpg" crc="345637445" ref="w05-音訊錄音"/>
+    <file name="pasted image 507x261.png" crc="290539797" ref="w05-音訊錄音"/>
+    <file name="pasted image 408x183.png" crc="331318369" ref="w05-音訊錄音"/>
+    <file name="pasted image 475x372.jpg" crc="4251774561" ref="w05-音訊錄音"/>
+    <file name="pasted image 280x139.png" crc="225506397" ref="w05-音訊錄音"/>
+    <file name="pasted image 830x394.png" crc="509721051" ref="w05-音訊錄音"/>
+    <file name="pasted image 705x375.png" crc="3905041003" ref="w05-音訊錄音"/>
+    <file name="pasted image 240x260.png" crc="334846662" ref="w05-音訊錄音"/>
+    <file name="pasted image 581x397.png" crc="2076291" ref="w05-音訊錄音"/>
+    <file name="pasted image 488x275.png" crc="3930784238" ref="w05-音訊錄音"/>
+    <file name="pasted image 627x418.png" crc="4180691369" ref="w05-音訊錄音"/>
+    <file name="pasted image 817x382.png" crc="475569239" ref="w05-音訊錄音"/>
+    <file name="pasted image 651x349.png" crc="453570004" ref="w05-音訊錄音"/>
+    <file name="pasted image 476x251.png" crc="55384440" ref="w05-音訊錄音"/>
+    <file name="pasted image 220x127.png" crc="4294049259" ref="w05-音訊錄音"/>
+    <file name="pasted image 599x355.png" crc="145852648" ref="w05-音訊錄音"/>
+    <file name="pasted image 960x231.png" crc="130128283" ref="w05-音訊錄音"/>
+    <file name="pasted image 330x370.png" crc="13208733" ref="w05-音訊錄音"/>
+    <file name="pasted image 465x375.png" crc="3958781157" ref="w05-音訊錄音"/>
+    <file name="pasted image 433x52.png" crc="425797072" ref="w05-音訊錄音"/>
+    <file name="pasted image 849x320.png" crc="4003876620" ref="w05-音訊錄音"/>
+    <file name="pasted image 330x253.jpg" crc="3827625424" ref="w05-音訊錄音"/>
+    <file name="pasted image 287x253.jpg" crc="3848842724" ref="w05-音訊錄音"/>
+    <file name="pasted image 325x253.jpg" crc="536581760" ref="w05-音訊錄音"/>
+    <file name="pasted image 1024x720.jpg" crc="4269750322" ref="w05-音訊錄音"/>
+    <file name="pasted image 940x300.jpg" crc="4040564087" ref="認證考試"/>
+    <file name="u1637-4.png" crc="227779447" ref="認證考試"/>
+    <file name="u1640-4.png" crc="240211494" ref="認證考試"/>
+    <file name="u1642-4.png" crc="399969544" ref="認證考試"/>
+    <file name="201393084654.jpg" crc="194268675" ref="認證考試"/>
+    <file name="pasted image 623x240.jpg" crc="428037323" ref="w06-音訊編輯"/>
+    <file name="pasted image 391x315.png" crc="27331602" ref="w06-音訊編輯"/>
+    <file name="pasted image 171x103.jpg" crc="3967519409" ref="w06-音訊編輯"/>
+    <file name="pasted image 686x365-u1755.png" crc="460090257" ref="w06-音訊編輯"/>
+    <file name="pasted image 957x510.png" crc="514951350" ref="w06-音訊編輯"/>
+    <file name="pasted image 211x30.jpg" crc="4257027496" ref="w06-音訊編輯"/>
+    <file name="pasted image 264x80.jpg" crc="4103244063" ref="w06-音訊編輯"/>
+    <file name="pasted image 372x81.jpg" crc="4093192289" ref="w06-音訊編輯"/>
+    <file name="pasted image 212x186.jpg" crc="4069463920" ref="w06-音訊編輯"/>
+    <file name="pasted image 623x2402.jpg" crc="428037323" ref="w06-音訊編輯"/>
+    <file name="pasted image 267x300.jpg" crc="213039340" ref="w06-音訊編輯"/>
+    <file name="pasted image 763x147.jpg" crc="3843427957" ref="w06-音訊編輯"/>
+    <file name="pasted image 157x33.jpg" crc="497147342" ref="w06-音訊編輯"/>
+    <file name="pasted image 416x380.jpg" crc="4187823572" ref="w06-音訊編輯"/>
+    <file name="pasted image 748x356.jpg" crc="169358801" ref="w06-音訊編輯"/>
+    <file name="pasted image 146x68.jpg" crc="4275362383" ref="w06-音訊編輯"/>
+    <file name="pasted image 153x70.jpg" crc="4263280433" ref="w06-音訊編輯"/>
+    <file name="pasted image 105x102.jpg" crc="3867555224" ref="w06-音訊編輯"/>
+    <file name="pasted image 107x100.jpg" crc="4235107577" ref="w06-音訊編輯"/>
+    <file name="pasted image 105x98.jpg" crc="4205433304" ref="w06-音訊編輯"/>
+    <file name="pasted image 830x283.jpg" crc="293357854" ref="w06-音訊編輯"/>
+    <file name="pasted image 948x379.jpg" crc="4293269445" ref="w06-音訊編輯"/>
+    <file name="pasted image 316x238.jpg" crc="359475393" ref="w07-音頻處理"/>
+    <file name="pasted image 600x143.png" crc="4132014648" ref="w07-音頻處理"/>
+    <file name="pasted image 387x379.jpg" crc="305579593" ref="w07-音頻處理"/>
+    <file name="pasted image 264x321.png" crc="4171719632" ref="w07-音頻處理"/>
+    <file name="pasted image 387x3792.jpg" crc="305579593" ref="w07-音頻處理"/>
+    <file name="pasted image 292x224.png" crc="374563662" ref="w07-音頻處理"/>
+    <file name="pasted image 387x3793.jpg" crc="305579593" ref="w07-音頻處理"/>
+    <file name="pasted image 699x92.jpg" crc="40318041" ref="w07-音頻處理"/>
+    <file name="pasted image 600x144.jpg" crc="4223054841" ref="w07-音頻處理"/>
+    <file name="pasted image 240x363.jpg" crc="78801175" ref="w07-音頻處理"/>
+    <file name="pasted image 600x180.jpg" crc="225652681" ref="w07-音頻處理"/>
+    <file name="pasted image 240x3632.jpg" crc="4053092427" ref="w07-音頻處理"/>
+    <file name="pasted image 599x115.jpg" crc="529939144" ref="w07-音頻處理"/>
+    <file name="pasted image 257x388.jpg" crc="3975149392" ref="w07-音頻處理"/>
+    <file name="pasted image 600x114.jpg" crc="247568083" ref="w07-音頻處理"/>
+    <file name="pasted image 371x202.jpg" crc="522897463" ref="w07-音頻處理"/>
+    <file name="螢幕快照 2014-04-24 下午54107.jpg" crc="437967125" ref="w08-堆積木創作法"/>
+    <file name="螢幕快照 2014-04-24 下午54639.jpg" crc="4232300498" ref="w08-堆積木創作法"/>
+    <file name="螢幕快照 2014-04-24 下午55444.jpg" crc="4178187767" ref="w08-堆積木創作法"/>
+    <file name="螢幕快照 2014-04-24 下午60558.jpg" crc="98743965" ref="w08-堆積木創作法"/>
+    <file name="螢幕快照 2014-04-24 下午60808.jpg" crc="4202652173" ref="w08-堆積木創作法"/>
+    <file name="螢幕快照 2014-04-24 下午62802.jpg" crc="310664708" ref="w08-堆積木創作法"/>
+    <file name="pasted image 604x453.jpg" crc="4291686706" ref="w09-視訊處理"/>
+    <file name="螢幕快照 2014-05-01 下午30521.jpg" crc="4073250126" ref="w09-視訊處理"/>
+    <file name="螢幕快照 2014-05-01 下午31215.jpg" crc="3778471808" ref="w09-視訊處理"/>
+    <file name="螢幕快照 2014-05-01 下午31654.jpg" crc="45410893" ref="w09-視訊處理"/>
+    <file name="螢幕快照 2014-05-01 下午31807.jpg" crc="3906540699" ref="w09-視訊處理"/>
+    <file name="螢幕快照 2014-05-01 下午32119.jpg" crc="245979366" ref="w09-視訊處理"/>
+    <file name="螢幕快照 2014-05-01 下午32925.jpg" crc="87977073" ref="w09-視訊處理"/>
+    <file name="螢幕快照 2014-05-01 下午32607.jpg" crc="425505710" ref="w09-視訊處理"/>
+    <file name="螢幕快照 2014-05-01 下午33449.jpg" crc="134891205" ref="w09-視訊處理"/>
+    <file name="螢幕快照 2014-05-01 下午33658.jpg" crc="261605774" ref="w09-視訊處理"/>
+    <file name="pasted image 1920x1200-u2616.jpg" crc="517638162" ref="w10-配樂的情緒"/>
+    <file name="pasted image 734x106.jpg" crc="4223356608" ref="w10-配樂的情緒"/>
+    <file name="pasted image 870x580.jpg" crc="3808220109" ref="w10-配樂的情緒"/>
+    <file name="pasted image 856x483-u2808.jpg" crc="406466323" ref="w10-配樂的情緒"/>
+    <file name="pasted image 539x306.png" crc="4066502264" ref="w11-影像配樂"/>
+    <file name="pasted image 295x274.png" crc="3974349639" ref="w11-影像配樂"/>
+    <file name="pasted image 287x283.png" crc="227097909" ref="w11-影像配樂"/>
+    <file name="pasted image 307x277.png" crc="32547824" ref="w11-影像配樂"/>
+    <file name="pasted image 296x268.png" crc="202280544" ref="w11-影像配樂"/>
+    <file name="pasted image 277x267.png" crc="4032919428" ref="w11-影像配樂"/>
+    <file name="pasted image 550x189.png" crc="3994153874" ref="w11-影像配樂"/>
+    <file name="pasted image 326x394.png" crc="3933138749" ref="w11-影像配樂"/>
+    <file name="螢幕快照 2014-05-15 下午72014.jpg" crc="4165364019" ref="w11-影像配樂"/>
+    <file name="pasted image 134x23.png" crc="4293345350" ref="w11-影像配樂"/>
+    <file name="pasted image 800x450.jpg" crc="3988967455" ref="w12-midi"/>
+    <file name="pasted image 494x376.png" crc="4265962281" ref="w12-midi"/>
+    <file name="螢幕快照 2014-05-22 下午112549.jpg" crc="4258935495" ref="w12-midi"/>
+    <file name="pasted image 335x458.png" crc="26226575" ref="w12-midi"/>
+    <file name="螢幕快照 2014-05-22 下午113757.jpg" crc="528731370" ref="w12-midi"/>
+    <file name="pasted image 516x241.png" crc="4158622986" ref="w12-midi"/>
+    <file name="螢幕快照 2014-05-22 下午114927-u3170.jpg" crc="368244080" ref="w12-midi"/>
+    <file name="pasted image 402x281.png" crc="4123709474" ref="w12-midi"/>
+    <file name="pasted image 369x255.png" crc="53232415" ref="w12-midi"/>
+    <file name="pasted image 360x267.png" crc="4074127322" ref="w12-midi"/>
+    <file name="pasted image 380x283.png" crc="300125875" ref="w12-midi"/>
+    <file name="pasted image 489x278.png" crc="4032568093" ref="w12-midi"/>
+    <file name="pasted image 459x233.png" crc="4035084898" ref="w12-midi"/>
+    <file name="pasted image 441x272.png" crc="155753147" ref="w12-midi"/>
+    <file name="pasted image 442x201.png" crc="3867652549" ref="w12-midi"/>
+    <file name="螢幕快照 2014-05-23 上午85125.jpg" crc="470894500" ref="w12-midi"/>
+    <file name="w10-popc-sample.jpg" crc="3904142546" ref="w13-音源及和弦創件"/>
+    <file name="w11-fill-sample.jpg" crc="3957027000" ref="w13-音源及和弦創件"/>
+  </folder>
+  <file name="index.html" crc="4003567879" mt="1402029880582" redirect="true"/>
+  <file name="課程資源.html" crc="4004404232" mt="1402029823080" redirect="true"/>
+  <file name="講義.html" crc="4099924942" mt="1402026409051" redirect="true"/>
+  <file name="w03-聲音的世界.html" crc="146365603" mt="1402026409054" redirect="true"/>
+  <file name="w04-數位音樂及錄音.html" crc="205339079" mt="1402026409057" redirect="true"/>
+  <file name="w05-音訊錄音.html" crc="181968255" mt="1402029823164" redirect="true"/>
+  <file name="認證考試.html" crc="104285563" mt="1402027946821" redirect="true"/>
+  <file name="w06-音訊編輯.html" crc="4224171761" mt="1402026409065" redirect="true"/>
+  <file name="w07-音頻處理.html" crc="3938351153" mt="1402026409073" redirect="true"/>
+  <file name="w08-堆積木創作法.html" crc="4116333920" mt="1402026409076" redirect="true"/>
+  <file name="w09-視訊處理.html" crc="4286438052" mt="1402026409079" redirect="true"/>
+  <file name="w10-配樂的情緒.html" crc="438281888" mt="1402026409082" redirect="true"/>
+  <file name="w11-影像配樂.html" crc="184556134" mt="1402026409085" redirect="true"/>
+  <file name="w12-midi.html" crc="4237430036" mt="1402027733589" redirect="true"/>
+  <file name="w13-音源及和弦創件.html" crc="18086648" mt="1402027800863" redirect="true"/>
+</manifest>
